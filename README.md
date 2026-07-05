@@ -15,7 +15,7 @@
   <a href="mailto:abdujabborovyahyobek44@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img align="right" src="coding.gif" alt="Coding illustration" width="380" />
+<img align="right" src="assets/coding.gif" alt="Coding illustration" width="380" />
 
 ```python
 class Yahyobek:
