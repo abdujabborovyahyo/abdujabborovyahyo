@@ -34,11 +34,11 @@ me.greet()
 
 ## 🧑‍💻 About Me
 
-- 🔹 **Backend Engineer** from Uzbekistan
-- 🔹 Passionate about **Artificial Intelligence** and **Backend Systems**
-- 🔹 Building **scalable and maintainable** backend applications
-- 🔹 Currently exploring **Distributed Systems & AI Engineering**
-- 🔹 Ask me about **Python, Django, FastAPI, Telegram Bots**
+-  **Backend Engineer** from Uzbekistan
+-  Passionate about **Artificial Intelligence** and **Backend Systems**
+-  Building **scalable and maintainable** backend applications
+-  Currently exploring **Distributed Systems & AI Engineering**
+-  Ask me about **Python, Django, FastAPI, Telegram Bots**
 
 ## 🛠 Tech Stack
 
