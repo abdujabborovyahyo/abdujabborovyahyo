@@ -8,13 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a target="_blank" href="https://yahyobekdev.uz"><img src="https://img.shields.io/badge/Website-yahyobekdev.uz-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/yahyobek-abdujabborov/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="https://t.me/yahyobekdev"><img src="https://img.shields.io/badge/Telegram-@yahyobekdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:abdujabborovyahyobek44@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <img align="right" src="assets/coding.gif" alt="Coding illustration" width="380" />
 
 ```python
