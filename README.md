@@ -109,10 +109,10 @@ Loyihalar tayyor bo'lganda shu kommentni oching va to'ldiring -->
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://yahyobekdev.uz">🌍 yahyobekdev.uz</a> •
-  <a href="https://www.linkedin.com/in/yahyobek-abdujabborov/">💼 LinkedIn</a> •
-  <a href="https://t.me/yahyobekdev">✈️ Telegram</a> •
-  <a href="mailto:abdujabborovyahyobek44@gmail.com">📧 Email</a>
+  <a href="https://yahyobekdev.uz" target="_blank" rel="noopener noreferrer">🌍 yahyobekdev.uz</a> •
+  <a href="https://www.linkedin.com/in/yahyobek-abdujabborov/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> •
+  <a href="https://t.me/yahyobekdev" target="_blank" rel="noopener noreferrer">✈️ Telegram</a> •
+  <a href="mailto:abdujabborovyahyobek44@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a>
 </p>
 
 ---
