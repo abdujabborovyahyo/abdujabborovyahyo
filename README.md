@@ -60,6 +60,7 @@ me.greet()
   <img src="https://img.shields.io/badge/badge%2C%20Celery%2C%20green"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
+![Celery](https://shields.io)
 
 ### DevOps & Tools
 <p>
